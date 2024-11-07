@@ -1,0 +1,11 @@
+C:\Users\pauli\Code\CodeWars\Katas\bin\Debug\net8.0\Katas.deps.json
+C:\Users\pauli\Code\CodeWars\Katas\bin\Debug\net8.0\Katas.dll
+C:\Users\pauli\Code\CodeWars\Katas\bin\Debug\net8.0\Katas.pdb
+C:\Users\pauli\Code\CodeWars\Katas\obj\Debug\net8.0\Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Code\CodeWars\Katas\obj\Debug\net8.0\Katas.AssemblyInfoInputs.cache
+C:\Users\pauli\Code\CodeWars\Katas\obj\Debug\net8.0\Katas.AssemblyInfo.cs
+C:\Users\pauli\Code\CodeWars\Katas\obj\Debug\net8.0\Katas.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Code\CodeWars\Katas\obj\Debug\net8.0\Katas.dll
+C:\Users\pauli\Code\CodeWars\Katas\obj\Debug\net8.0\refint\Katas.dll
+C:\Users\pauli\Code\CodeWars\Katas\obj\Debug\net8.0\Katas.pdb
+C:\Users\pauli\Code\CodeWars\Katas\obj\Debug\net8.0\ref\Katas.dll
